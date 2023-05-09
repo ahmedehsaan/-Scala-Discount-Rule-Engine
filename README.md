@@ -1,11 +1,5 @@
-# -Scala-Discount-Rule-Engine
+# Scala-Discount-Rule-Engine
  The program written in Scala processes CSV files located in a specified directory. The data in the CSV files is subjected to a set of rules to determine discounts for each transaction. The resulting discounted transactions are then stored in a MySQL database table.
-
-# Installation
-
-Clone the repository from GitHub:
-
-git clone https://github.com/ahmedmohamedalislouma/discount-rule-engine.git
 
 
 # SBT Configuration
